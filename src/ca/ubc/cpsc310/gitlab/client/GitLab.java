@@ -65,6 +65,7 @@ public class GitLab implements EntryPoint {
 			public void onSuccess(List<IUser> result) {
 				Window.alert("Got list back with " +  result.size() + " entries");
 				System.out.println("I hope this works");
+				System.out.println("Let's do this again!");
 				
 			}});
 		
