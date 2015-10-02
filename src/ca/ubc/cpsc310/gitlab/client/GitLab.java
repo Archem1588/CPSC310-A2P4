@@ -34,6 +34,7 @@ import com.google.gwt.user.client.ui.VerticalPanel;
  * Entry point classes define <code>onModuleLoad()</code>.
  */
 public class GitLab implements EntryPoint {
+	
 	/**
 	 * The message displayed to the user when the server cannot be reached or
 	 * returns an error.
@@ -65,6 +66,8 @@ public class GitLab implements EntryPoint {
 				Window.alert("Got list back with " +  result.size() + " entries");
 				
 			}});
+		
+		System.out.println("MERGECONFLICT1");
 	
 
 		
