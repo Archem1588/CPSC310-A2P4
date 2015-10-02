@@ -91,6 +91,8 @@ public class GitLab implements EntryPoint {
 		
 		for(int i=0; i < users.size(); i++)
 		{
+			
+			System.out.println("I'M IN A LOOOPPPPP - Hannah");
 		
 			IUser user = users.get(i);
 			
