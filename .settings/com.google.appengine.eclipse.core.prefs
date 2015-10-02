@@ -3,3 +3,5 @@ filesCopiedToWebInfLib=appengine-api-1.0-sdk-1.9.25.jar|appengine-api-labs.jar|a
 gaeDatanucleusVersion=v2
 gaeHrdEnabled=true
 gaeIsEclipseDefaultInstPath=true
+googleCloudSqlEnabled=false
+localDevMySqlEnabled=true
