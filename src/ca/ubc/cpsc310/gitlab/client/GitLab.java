@@ -67,7 +67,7 @@ public class GitLab implements EntryPoint {
 				
 			}});
 		
-		System.out.println("MERGECONFLICT1");
+		System.out.println("MERGECONFLICT2");
 	
 
 		
